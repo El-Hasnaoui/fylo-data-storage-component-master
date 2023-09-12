@@ -13,7 +13,6 @@ body{
     height: 98vh;
     background: url(../images/bg-mobile.png);
     background-repeat: no-repeat;
-    background-position:0 bottom ;
     background-size: cover ;
     background-color: hsl(229, 57%, 11%);
     color: rgba(255, 255, 255, 0.7);
